@@ -1,0 +1,3 @@
+ * What's new
+   + Fix Drag form
+   + Fix something error
