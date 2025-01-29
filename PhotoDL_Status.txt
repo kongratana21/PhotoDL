@@ -1,4 +1,6 @@
  * What's new
-   + Fix Deviantart
-   + Fix Facebook
+   + 
+   + Fix artstation
+   + Fix fapachi
+   + Fix vsco
    + Fix something error
