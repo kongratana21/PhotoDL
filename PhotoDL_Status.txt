@@ -1,6 +1,6 @@
  * What's new
-   + 
-   + Fix artstation
-   + Fix fapachi
-   + Fix vsco
-   + Fix something error
+   + Check the license key for this tool or not.
+   + Fix artstation.
+   + Fix fapachi.
+   + Fix vsco.
+   + Fix something error.
