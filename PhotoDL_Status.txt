@@ -1,6 +1,5 @@
- * What's new
-   + Check the license key for this tool or not.
-   + Fix artstation.
-   + Fix fapachi.
-   + Fix vsco.
+* Releases * 👇
+
+=> v25.08.07
+   + Add download from TikTok.
    + Fix something error.
